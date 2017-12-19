@@ -13,9 +13,6 @@ Step # 0
     <uses-permission android:name="android.permission.WRITE_CALENDAR"></uses-permission>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
-    <uses-permission
-        android:name="android.permission.ACCOUNT_MANAGER"
-        tools:ignore="ProtectedPermissions"></uses-permission>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
     <uses-permission android:name="android.permission.BATTERY_STATS"></uses-permission>
     <uses-feature android:name="android.hardware.location.gps"></uses-feature>
